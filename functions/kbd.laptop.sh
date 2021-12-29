@@ -48,3 +48,4 @@ function kbd () {
       kbd -h
    fi
 }
+kbd "$@"
